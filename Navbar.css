@@ -1,0 +1,24 @@
+ul li{
+    list-style: none;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    padding: 5px;
+    font-size: 22px;
+}
+h1{
+    font-weight: bold;
+}
+.col{
+    text-align: center !important;
+}
+input{
+    background: linear-gradient(90deg, #1CB5E0 0%, #4361ee 100%);
+    border: none;
+    border-radius: 25px;
+    padding: 15px;
+    outline: none;
+}
+.table{
+    background-color: #1CB5E0 !important;
+}

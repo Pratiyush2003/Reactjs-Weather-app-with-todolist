@@ -1,0 +1,13 @@
+form{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.js-inputform{
+    width: 40%;
+    height: 60px;
+    font-size: 22px;
+    color: white;
+    margin-top: 9px;
+}
+

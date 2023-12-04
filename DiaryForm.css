@@ -1,0 +1,30 @@
+textarea{
+    border-radius: 15px;
+    padding: 15px;
+    outline: none;
+    width: 100%;
+    color: white;
+    background: linear-gradient(90deg, #1CB5E0 0%, #4361ee 100%);
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    border: none;
+    margin-top: 30px;
+}
+.js-addbutton{
+    vertical-align: middle ;
+    margin-left: 5px;
+    padding: 15px ;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: #03071e;
+    color: white;
+    outline: none;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 10px;
+    word-wrap: break-word;
+    margin-top: 10px;
+    border: 1px solid white;
+}
+
